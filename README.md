@@ -1,6 +1,6 @@
 # **Segmentation-Based Bird Audio Denoising**
 
-[Segmentation-Based Bird Audio Denoising](https://www.researchgate.net/publication/387187819_Segmentation-Based_Bird_Audio_Denoising)
+Paper is available at: [Segmentation-Based Bird Audio Denoising](https://www.researchgate.net/publication/387187819_Segmentation-Based_Bird_Audio_Denoising)
 
 ## **Overview**
 Bird sound denoising in natural environments is challenging due to background noise such as wind, water, and other environmental disturbances. This project extends a **segmentation-based approach** to **audio denoising**, following the framework proposed by Zhang et al. (2022), which treats **audio denoising as an image segmentation problem**.
